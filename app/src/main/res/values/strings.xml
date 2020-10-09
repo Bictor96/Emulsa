@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Emulsa</string>
+    <!-- Strings used for fragments for navigation -->
+
 </resources>
