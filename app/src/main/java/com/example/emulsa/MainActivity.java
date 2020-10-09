@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void OpenInputActivity(View view) {
-        Intent openIntent = new Intent(this, InputActivity.class);
-        startActivity(openIntent);
+        Intent openInputIntent = new Intent(this, InputActivity.class);
+        startActivity(openInputIntent);
     }
 }

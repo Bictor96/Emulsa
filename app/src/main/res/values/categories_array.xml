@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="categories_array">
+        <item> Aparatos Electrónicos </item>
+        <item> Electrodómesticos </item>
+        <item> Equipamiento Infórmatico </item>
+        <item> Juguetes </item>
+        <item> Material Puericultura </item>
+        <item> Otros </item>
+    </string-array>
+</resources>
